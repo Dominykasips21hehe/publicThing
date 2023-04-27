@@ -1,2 +1,3 @@
 # publicThing
-just a thing is empty
+Class created for educational purposes only
+The class can do basic calculations
